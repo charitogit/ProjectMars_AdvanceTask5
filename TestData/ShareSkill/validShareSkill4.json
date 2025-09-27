@@ -1,0 +1,16 @@
+﻿{
+  "Title": "API Test Automation",
+  "Description": "Create API tests with Postman.",
+  "Category": "Test Automation",
+  "SubCategory": "API Testing",
+  "Tags": [ "api", "postman" ],
+  "ServiceType": "One-off service",
+  "LocationType": "On-site",
+  "SkillTradeType": "Credit",
+  "SkillExchange": [],
+  "Credit": 30,
+  "Status": "Active",
+  "ExpectedMessage": ""
+
+
+}

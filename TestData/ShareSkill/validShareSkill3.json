@@ -1,0 +1,16 @@
+﻿{
+  "Title": "Selenium Test Automation",
+  "Description": "Automate web app testing with Selenium.",
+  "Category": "Test Automation",
+  "SubCategory": "Selenium",
+  "Tags": [ "selenium", "automation" ],
+  "ServiceType": "Hourly basis service",
+  "LocationType": "Online",
+  "SkillTradeType": "Skill-exchange",
+  "SkillExchange": [ "C#", "Selenium" ],
+  "Credit": 0,
+  "Status": "Active",
+  "ExpectedMessage": ""
+
+
+}

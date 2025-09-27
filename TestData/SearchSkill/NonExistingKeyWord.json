@@ -1,0 +1,7 @@
+﻿{
+  "Category": "",
+  "SubCategory": "",
+  "Keyword": "non-existing",
+  "ExpectedCount": 0,
+  "ExpectedMessage": "No results found, please select a new category!"
+}

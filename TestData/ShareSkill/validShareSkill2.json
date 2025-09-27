@@ -1,0 +1,16 @@
+﻿{
+  "Title": "Mobile App Development",
+  "Description": "Create native application for Android and iOS.",
+  "Category": "Software Development",
+  "SubCategory": "Front End Development",
+  "Tags": [ "mobile", "android", "ios" ],
+  "ServiceType": "Hourly basis service",
+  "LocationType": "On-site",
+  "SkillTradeType": "Credit",
+  "SkillExchange": [],
+  "Credit": 50,
+  "Status": "Active",
+  "ExpectedMessage": ""
+
+
+}

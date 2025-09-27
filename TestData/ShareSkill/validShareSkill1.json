@@ -1,0 +1,16 @@
+﻿{
+  "Title": "Full Stack Web Development",
+  "Description": "Build scalable web apps using React and Node.js.",
+  "Category": "Software Development",
+  "SubCategory": "Front End Development",
+  "Tags": [ "web", "react", "nodejs" ],
+  "ServiceType": "Hourly basis service",
+  "LocationType": "Online",
+  "SkillTradeType": "Skill-exchange",
+  "SkillExchange": [ "JavaScript", "React" ],
+  "Credit": 0,
+  "Status": "Active",
+  "ExpectedMessage": ""
+
+
+}

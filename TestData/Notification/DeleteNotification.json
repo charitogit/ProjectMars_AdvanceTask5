@@ -1,0 +1,20 @@
+﻿{
+  "UserA": {
+    "Email": "JohnSmith@yahoo.com",
+    "Password": "JohnP@ssw0rd"
+  },
+  "UserB": {
+    "Email": "charie_artz@yahoo.com",
+    "Password": "P@ssw0rd"
+  },
+  "Request": {
+    "Title": "Selenium Test Automation",
+    "Message": "I am interested in your Selenium Test Automation skill trade.Please accept offer.",
+    "Hours": 2
+  },
+  "Notification": {
+    "Header": "Service Request",
+    "Content": "You have Pending trade request from JohnSmith.",
+    "PopUpMessage": "Notification updated"
+  }
+}
