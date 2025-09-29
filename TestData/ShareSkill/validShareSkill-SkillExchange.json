@@ -1,0 +1,14 @@
+﻿{
+  "Title": "Test Automation",
+  "Description": "I can automate tests using Selenium and NUnit.",
+  "Category": "Test Automation",
+  "SubCategory": "Selenium",
+  "Tags": [ "automation", "testing" ],
+  "ServiceType": "Hourly basis service",
+  "LocationType": "Online",
+  "SkillTradeType": "Skill-exchange",
+  "SkillExchange": [ "C#", "Selenium" ],
+  "Credit": 0,
+  "Status": "Active",
+  "ExpectedMessage": ""
+}
